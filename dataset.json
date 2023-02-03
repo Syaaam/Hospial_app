@@ -1,0 +1,37 @@
+[
+    {
+        "hospitalName": "Aster MIMS",
+        "hospitalLocation": "Kottakkal",
+        "patientCount": "1000"
+    },
+    {
+        "hospitalName": "Nizar Hospital",
+        "hospitalLocation": "Valanchery",
+        "patientCount": "500"
+    },
+    {
+        "hospitalName": "Moulana Hospital",
+        "hospitalLocation": "Perinthalmanna",
+        "patientCount": "1500"
+    },
+    {
+        "hospitalName": "Medical College Kozikkode",
+        "hospitalLocation": "Kozhikkode",
+        "patientCount": "4000"
+    },
+    {
+        "hospitalName": "MES Medical College",
+        "hospitalLocation": "Angadipuram",
+        "patientCount": "3000"
+    },
+    {
+        "hospitalName": "Nila Hospital",
+        "hospitalLocation": "Pattambi",
+        "patientCount": "600"
+    },
+    {
+        "hospitalName": "Al Shifa Hospital",
+        "hospitalLocation": "Perinthalmanna",
+        "patientCount": "2800"
+    }
+]
